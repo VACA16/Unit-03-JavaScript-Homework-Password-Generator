@@ -1,0 +1,25 @@
+/* Sets back ground color */
+.container{
+    background-color: whitesmoke;
+}
+/* Sets border at the bottom of the row */
+.GP{
+    border-bottom: 2px solid #848888;
+}
+/* Sets height of password row and adds a dashed border */
+.PW{
+    height: 150px;
+    border: dashed #848888;
+}
+/* Sets width of display */
+#display{
+    width: 100%;
+}
+/* Sets width of slider */
+#slider{
+    width: 100%;
+}
+/* sets border at the top Of the row */
+.buttons{
+    border-top: 2px solid #848888;
+}
